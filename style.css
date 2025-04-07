@@ -2,4 +2,7 @@
     margin: 0;
     padding: 0
 }
-.cabeçalho{background-color: rgb(65, 236, 179);;}
+.cabeçalho{background-color: rgb(65, 236, 179);
+   color: aqua ;
+   width: 20px;
+}
